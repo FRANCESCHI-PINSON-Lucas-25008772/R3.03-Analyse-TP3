@@ -10,6 +10,11 @@
 
 
 
+- Partie 3
+<img width="185" height="110" alt="image" src="https://github.com/user-attachments/assets/7b4b4757-89dd-4a59-adf1-6d0623c46a7b" />
+
+
+
 - Partie 4
 <img width="347" height="253" alt="image" src="https://github.com/user-attachments/assets/30b65b4d-52e5-43f6-a670-2e71df1dfa4f" />
 
