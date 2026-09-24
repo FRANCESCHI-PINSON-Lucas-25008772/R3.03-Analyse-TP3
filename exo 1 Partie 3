@@ -1,0 +1,7 @@
+skinparam classAttributeIconSize 0
+
+class Personne{
++ se marier()
+}
+
+Personne "0..1" -- "0..1" Personne
