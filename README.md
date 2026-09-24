@@ -25,13 +25,12 @@
 
 
 
-# Meme comptant comme 90% de la note :)
-<img width="317" height="257" alt="Capture d&#39;écran 2026-07-07 125407" src="https://github.com/user-attachments/assets/1907d554-c3a2-4b31-8c45-f89e375cdacb" />
-
-
-
 - Partie 6
 <img width="103" height="217" alt="image" src="https://github.com/user-attachments/assets/84e17f6e-66c3-436c-902c-922147d7de83" />
+
+
+# Meme comptant comme 90% de la note :)
+<img width="317" height="257" alt="Capture d&#39;écran 2026-07-07 125407" src="https://github.com/user-attachments/assets/1907d554-c3a2-4b31-8c45-f89e375cdacb" />
 
 
 
