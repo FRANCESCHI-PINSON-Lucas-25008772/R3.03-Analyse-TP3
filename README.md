@@ -16,7 +16,7 @@
 
 
 - Partie 6
-  <img width="103" height="217" alt="image" src="https://github.com/user-attachments/assets/84e17f6e-66c3-436c-902c-922147d7de83" />
+<img width="103" height="217" alt="image" src="https://github.com/user-attachments/assets/84e17f6e-66c3-436c-902c-922147d7de83" />
 
 
 
