@@ -10,7 +10,7 @@
 
 
 
--Partie 5
+- Partie 5
 <img width="156" height="231" alt="image" src="https://github.com/user-attachments/assets/972c1602-d2f7-433e-9ade-776dd63337e7" />
 
 
