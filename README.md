@@ -5,6 +5,11 @@
 
 
 
+- Partie 2
+<img width="205" height="227" alt="image" src="https://github.com/user-attachments/assets/ce225862-65c0-49c0-96c2-a6d356bbc05a" />
+
+
+
 - Partie 4
 <img width="347" height="253" alt="image" src="https://github.com/user-attachments/assets/30b65b4d-52e5-43f6-a670-2e71df1dfa4f" />
 
