@@ -1,0 +1,21 @@
+skinparam classAttributeIconSize 0
+
+class Bibliotheque{
+}
+
+class Adhérant{
+-prénom
+-nom
+-adresse_Postale
+-adresseMail
+-date
+}
+
+class Eleve extends Adhérant{
+-numéroEtudiant
+}
+
+class Professeur extends Adhérant{
+-NUMEN
+}
+
